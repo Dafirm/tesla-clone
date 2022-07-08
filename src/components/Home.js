@@ -54,6 +54,10 @@ function Home() {
             leftBtnText = "Shop now"
             
         />
+
+        <div className='footer__copyright'>
+        {<small>&copy;All right reserved. Developed by Dafirm  </small>}
+        </div>
         
     </Container>
   )
